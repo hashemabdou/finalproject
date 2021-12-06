@@ -1,5 +1,10 @@
 # finalproject
 
-This is the CS50 final project!
+This is our CS50 final project!
 
-Our project is called ❓ . The author's are Hashem Abdou, Nosher Ali Khan and Joao Abdalla. 
+The author's are:
+  Hashem Abdou
+  Nosher Ali Khan
+  Joao Pinheiro
+
+Documentation for your project in the form of a Markdown file called README.md. This documentation is to be a user’s manual for your project. Though the structure of your documentation is entirely up to you, it should be incredibly clear to the staff how and where, if applicable, to compile, configure, and use your project. Your documentation should be at least several paragraphs in length. It should not be necessary for us to contact you with questions regarding your project after its submission. Hold our hand with this documentation; be sure to answer in your documentation any questions that you think we might have while testing your work.
